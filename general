@@ -26,3 +26,18 @@ flat is relative to the next key, sharp is relative to the previous
 Meaning: Db is also C# (C# is C + 1 half-step)
 
 
+*** C-Major ***
+
+A B C D E F G
+
+* Defined in chromatic order
+
+When we write music we talk about it by using the scale as a 'key'.
+
+[Definition]
+Key: A scale that is not necessarily in chromatic order
+
+Think of it this way: scale = C# List (ordered), key = C# Dictionary (unordered)
+
+If you play a song that uses all 12 notes you are playing in the Chromatic Key.
+
