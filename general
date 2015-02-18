@@ -1,0 +1,28 @@
+A major scale is formed by the pattern W W h W W W h
+Starting with open E we can build the E Major scale
+
+The chromatic scale is Ab A Bb B C Db D Eb E F Gb G (or E F Gb G Ab A Bb B C Db)
+Each note (in the scale ^) is a half-step
+So, if we start on Open E and play each fret in order, on the 5th fret you are playing A
+
+Each time you get to the end of the chromatic scale and 'wrap around'; that is an `octave`
+
+If you start on Open E and play each fret (only on that one string) -- that is the chromatic scale
+
+The open strings are E A D G B E
+
+The 2nd string (played open) is A (instead of s1:f5 [E5]).
+
+Most music is written around what is known as the "Middle C" (http://www.piano-keyboard-guide.com/images/piano-notes.jpg for piano)
+
+This just means that Middle C is the 'center octave' or 'standard' pitch for music.
+
+
+[Definition]
+Scale: A set of notes in a particular order without a specific octave
+
+'b' is flat -- '#' is sharp
+flat is relative to the next key, sharp is relative to the previous
+Meaning: Db is also C# (C# is C + 1 half-step)
+
+
