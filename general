@@ -1,7 +1,7 @@
 A major scale is formed by the pattern W W h W W W h
 Starting with open E we can build the E Major scale
 
-The chromatic scale is Ab A Bb B C Db D Eb E F Gb G (or E F Gb G Ab A Bb B C Db D Eb)
+The chromatic scale is Ab A Bb B C Db D Eb E F Gb G
 Each note (in the scale ^) is a half-step
 So, if we start on Open E and play each fret in order, on the 5th fret you are playing A
 
@@ -21,10 +21,12 @@ This just means that Middle C is the 'center octave' or 'standard' pitch for mus
 flat is relative to the next key, sharp is relative to the previous
 Meaning: Db is also C# (C# is C + 1 half-step)
 
+W W h W W W h : Ab A Bb B C Db D Eb E F Gb G
+*** E-Major ***
+E Gb Ab A B Db Eb
 
 *** C-Major ***
-
-A B C D E F G
+C D E F G A B
 
 * Defined in chromatic order
 
@@ -34,7 +36,18 @@ Think of it this way: scale = C# List (ordered), key = C# Dictionary (unordered)
 
 If you play a song that uses all 12 notes you are playing in the Chromatic Key.
 
+E Major            = E Gb Ab A B Db Eb
+E Major Pentatonic = Ab B E Ab Db
+
+*** Notations ***
+(always use the Chromatic Scale as the source for these mutations)
+
+Major:      W W h W W W h -- W = whole step, h = half step
+Pentatonic: w w F w F     -- w = whole step, F = full step (1.5 whole steps)
 
 *** Definitions ***
 Scale: A set of notes in a particular order without a specific octave
 Key: A scale that is not necessarily in chromatic order
+Major Scale: A scale with 7 notes
+Pentatonic Scale: A scale with 5 notes
+
